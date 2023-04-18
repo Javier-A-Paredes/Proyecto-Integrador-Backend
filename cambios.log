@@ -1,0 +1,8 @@
+[2022-11-20 18:58:44] [ INFO ] [PacienteDAOH2:155] Iniciando la busqueda de los pacientes
+[2022-11-20 18:58:44] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=2
+[2022-11-20 18:58:44] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=3
+[2022-11-20 18:58:44] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=4
+[2022-11-20 18:59:49] [ INFO ] [PacienteDAOH2:29] Iniciando la operación de guardado del paciente con apellido= Hernandez
+[2022-11-20 18:59:49] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-11-20 19:09:44] [ INFO ] [PacienteDAOH2:29] Iniciando la operación de guardado del paciente con apellido= Hernandez
+[2022-11-20 19:09:44] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio

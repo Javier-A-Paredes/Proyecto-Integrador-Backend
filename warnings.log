@@ -1,0 +1,154 @@
+[2022-12-12 13:42:04] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2022-12-12 13:42:04] [ INFO ] [OdontologoService:32] Guardando odontologo: Lalo
+[2022-12-12 13:43:03] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2022-12-12 13:43:03] [ INFO ] [OdontologoService:32] Guardando odontologo: Lalo
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:32] Guardando odontologo: Lalo
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:37] Actualizando Odontologo con id: null
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:42] 
+[2022-12-12 13:43:14] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:32] Guardando odontologo: Lalo
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:37] Actualizando Odontologo con id: null
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:42] 
+[2022-12-12 13:48:15] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:32] Guardando odontologo: Lalo
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:37] Actualizando Odontologo con id: null
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:42] 
+[2022-12-12 13:48:43] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:17] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2022-12-12 13:49:17] [ INFO ] [OdontologoService:32] Guardando odontologo: Pascal
+[2022-12-12 13:49:17] [ INFO ] [OdontologoService:32] Guardando odontologo: Gran
+[2022-12-12 13:49:23] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:49:23] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:49:30] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:49:34] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2022-12-12 13:49:37] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:40] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 13:51:54] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 13:51:54] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 14:04:14] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 14:04:14] [ INFO ] [OdontologoService:23] Listando odontologos
+[2022-12-12 14:39:39] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 14:39:51] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 14:39:52] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 14:41:55] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 14:59:46] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 14:59:47] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:00:10] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:00:19] [ INFO ] [PacienteService:23] Se guardó el paciente: fsdf
+[2022-12-12 15:00:22] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:13:12] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:13:33] [ INFO ] [PacienteService:31] Buscando paciente con id: 1
+[2022-12-12 15:13:33] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 2
+[2022-12-12 15:13:40] [ INFO ] [PacienteService:31] Buscando paciente con id: 1
+[2022-12-12 15:13:40] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 15:49:53] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:49:55] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:50:10] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:50:12] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:50:33] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:50:50] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:50:57] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:51:04] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:51:06] [ INFO ] [TurnoService:70] Buscando todos los turnos...
+[2022-12-12 15:51:16] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:52:30] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:53:22] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:53:41] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:54:13] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:54:30] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:54:38] [ INFO ] [PacienteService:23] Se guardó el paciente: fas
+[2022-12-12 15:54:41] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:54:47] [ INFO ] [OdontologoService:32] Guardando odontologo: fasf
+[2022-12-12 15:54:51] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:54:57] [ INFO ] [PacienteService:31] Buscando paciente con id: 1
+[2022-12-12 15:54:57] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 15:54:57] [ INFO ] [TurnoService:37] Se guardo un turno para la fecha: 2022-12-12
+[2022-12-12 15:55:00] [ INFO ] [TurnoService:70] Buscando todos los turnos...
+[2022-12-12 15:55:00] [ INFO ] [PacienteService:31] Buscando paciente con id: 1
+[2022-12-12 15:55:00] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 15:55:02] [ INFO ] [TurnoService:55] Se encontró el turno con id: 1
+[2022-12-12 15:55:02] [ INFO ] [TurnoService:42] Se eliminó el turno con id: 1
+[2022-12-12 15:55:11] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:55:34] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:55:36] [ INFO ] [PacienteService:31] Buscando paciente con id: 1
+[2022-12-12 15:55:40] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:55:47] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 15:55:53] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 15:55:54] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 1
+[2022-12-12 15:56:01] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 17:00:52] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 17:00:54] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 17:00:58] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 17:01:01] [ INFO ] [TurnoService:70] Buscando todos los turnos...
+[2022-12-12 17:01:10] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 17:01:28] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:01:44] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:01:45] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:01:47] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2022-12-12 18:01:50] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:02:53] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:02:54] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:05:31] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:05:36] [ INFO ] [OdontologoService:32] Guardando odontologo: fasf
+[2022-12-12 18:05:38] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:05:43] [ INFO ] [OdontologoService:32] Guardando odontologo: dfasf
+[2022-12-12 18:05:44] [ INFO ] [OdontologoService:32] Guardando odontologo: dfasf
+[2022-12-12 18:05:47] [ INFO ] [OdontologoService:23] Listando todos los odontologos
+[2022-12-12 18:05:58] [ INFO ] [PacienteService:23] Se guardó el paciente: fas
+[2022-12-12 18:06:03] [ INFO ] [PacienteService:23] Se guardó el paciente: fas
+[2022-12-12 18:06:04] [ INFO ] [PacienteService:23] Se guardó el paciente: fas
+[2022-12-12 18:06:05] [ INFO ] [PacienteService:27] Se buscaron todos los pacientes
+[2023-03-06 02:13:16] [ INFO ] [PacienteService:23] Se guardó el paciente: Ana
+[2023-03-06 02:13:16] [ INFO ] [PacienteService:23] Se guardó el paciente: Pepe
+[2023-03-06 02:13:16] [ INFO ] [PacienteService:23] Se guardó el paciente: Lalo
+[2023-03-06 02:13:16] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2023-03-06 02:13:16] [ INFO ] [OdontologoService:32] Guardando odontologo: Pascal
+[2023-03-06 02:13:16] [ INFO ] [OdontologoService:32] Guardando odontologo: Gran
+[2023-03-06 02:13:20] [ INFO ] [TurnoService:70] Buscando todos los turnos...
+[2023-03-06 02:13:23] [ INFO ] [PacienteService:31] Buscando paciente con id: 2
+[2023-03-06 02:13:23] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2023-03-06 02:13:23] [ INFO ] [TurnoService:37] Se guardo un turno para la fecha: 2022-11-30
+[2023-03-06 02:14:21] [ INFO ] [PacienteService:23] Se guardó el paciente: Ana
+[2023-03-06 02:14:21] [ INFO ] [PacienteService:23] Se guardó el paciente: Pepe
+[2023-03-06 02:14:21] [ INFO ] [PacienteService:23] Se guardó el paciente: Lalo
+[2023-03-06 02:14:21] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2023-03-06 02:14:21] [ INFO ] [OdontologoService:32] Guardando odontologo: Pascal
+[2023-03-06 02:14:21] [ INFO ] [OdontologoService:32] Guardando odontologo: Gran
+[2023-03-06 02:14:30] [ INFO ] [PacienteService:31] Buscando paciente con id: 2
+[2023-03-06 02:14:30] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2023-03-06 02:14:30] [ INFO ] [TurnoService:37] Se guardo un turno para la fecha: 2022-11-30
+[2023-03-06 02:15:03] [ INFO ] [PacienteService:23] Se guardó el paciente: Ana
+[2023-03-06 02:15:03] [ INFO ] [PacienteService:23] Se guardó el paciente: Pepe
+[2023-03-06 02:15:03] [ INFO ] [PacienteService:23] Se guardó el paciente: Lalo
+[2023-03-06 02:15:03] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2023-03-06 02:15:03] [ INFO ] [OdontologoService:32] Guardando odontologo: Pascal
+[2023-03-06 02:15:04] [ INFO ] [OdontologoService:32] Guardando odontologo: Gran
+[2023-03-06 02:15:10] [ INFO ] [PacienteService:31] Buscando paciente con id: 2
+[2023-03-06 02:15:10] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2023-03-06 02:15:10] [ INFO ] [TurnoService:37] Se guardo un turno para la fecha: 2022-11-30
+[2023-03-06 02:15:58] [ INFO ] [PacienteService:23] Se guardó el paciente: Ana
+[2023-03-06 02:15:58] [ INFO ] [PacienteService:23] Se guardó el paciente: Pepe
+[2023-03-06 02:15:58] [ INFO ] [PacienteService:23] Se guardó el paciente: Lalo
+[2023-03-06 02:15:58] [ INFO ] [OdontologoService:32] Guardando odontologo: Tulio
+[2023-03-06 02:15:58] [ INFO ] [OdontologoService:32] Guardando odontologo: Pascal
+[2023-03-06 02:15:58] [ INFO ] [OdontologoService:32] Guardando odontologo: Gran
+[2023-03-06 02:16:00] [ INFO ] [PacienteService:31] Buscando paciente con id: 2
+[2023-03-06 02:16:00] [ INFO ] [OdontologoService:27] Buscando odontologo por id: 3
+[2023-03-06 02:16:00] [ INFO ] [TurnoService:37] Se guardo un turno para la fecha: 2022-11-30
